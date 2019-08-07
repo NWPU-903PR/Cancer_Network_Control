@@ -1,4 +1,4 @@
-Instruction of Cancer_Network_Control package (MATLAB)
+#Instruction of Cancer_Network_Control package (MATLAB)
 %Remainder: Please install gurobi before running our code (http://www.gurobi.com/)
 
 %Remainder: Please install gurobi before running our code (http://www.gurobi.com/)
